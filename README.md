@@ -23,5 +23,5 @@ A simple Google Maps/Twitter mashup
 3. Go "http://localhost/twitterforfun/index.html" for fun
 
 ##Demo image
-![snapshop](http://github.com/ipmsteven/twitterforfun/demo.png)
+![snapshop](http://github.com/ipmsteven/twitterforfun/blob/master/demo.png)
 
