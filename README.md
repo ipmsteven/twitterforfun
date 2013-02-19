@@ -5,16 +5,16 @@ A simple Google Maps/Twitter mashup
 
 ###File Description:
 
-	#index.html					
+# index.html					
 	Googlemap mashup(Use Ajax for updating dynamically)
 
 	#twitterstream.php		
 	Daemon program for fetching tweets with geo tag from Stream API
 
-	#lib/								
+#	lib/								
 	Use Phirehose Liabrary for Twitter Stream.
 
-	#result.xml					
+# result.xml					
 	Store temp tweet for Ajax call.
 
 ###How to Run:
