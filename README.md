@@ -21,3 +21,7 @@ A simple Google Maps/Twitter mashup
 1. Put twitterforfun in /var/www
 2. Run "php twitterstream.php" as deamon
 3. Go "http://localhost/twitterforfun/index.html" for fun
+
+##Demo image
+![snapshop](http://github.com/ipmsteven/twitterforfun/demo.png)
+
