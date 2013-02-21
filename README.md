@@ -19,7 +19,7 @@ A simple Google Maps/Twitter mashup
 
 ##How to Run:
 1. Put twitterforfun in /var/www
-2. Run "php twitterstream.php" as deamon
+2. Set USERNAME and PASSWORD in "twitterstream.php" and Run "php twitterstream.php" as deamon
 3. Go "http://localhost/twitterforfun/index.html" for fun
 
 ##Demo image
