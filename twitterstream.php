@@ -59,7 +59,7 @@ class FilterTrackConsumer extends Phirehose
 }
 
 // Start streaming
-$sc = new FilterTrackConsumer('hexforfun', 'xiaozhuzhu', Phirehose::METHOD_FILTER);
+$sc = new FilterTrackConsumer('yourusername', 'yourpassword', Phirehose::METHOD_FILTER);
 $sc->setLocations(array(
        array(-122.75, 36.8, -121.75, 37.8), // San Francisco
    ));
